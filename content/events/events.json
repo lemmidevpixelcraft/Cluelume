@@ -1,0 +1,44 @@
+[
+  {
+    "id": "autumn-glow-2026",
+    "startsAt": "2026-10-20T00:00:00Z",
+    "endsAt": "2026-11-16T23:59:59Z",
+    "title": {
+      "de": "Herbstleuchten",
+      "en": "Autumn Glow"
+    },
+    "body": {
+      "de": "Saisonale Wörter, warme Welten und ein besonderer Lume-Stern.",
+      "en": "Seasonal words, warm worlds and a special Lume Star."
+    },
+    "symbol": "leaf.fill",
+    "categories": [
+      "nature",
+      "animals",
+      "food"
+    ],
+    "wordTag": "autumn",
+    "bonusLume": 100
+  },
+  {
+    "id": "winter-lights-2026",
+    "startsAt": "2026-12-01T00:00:00Z",
+    "endsAt": "2027-01-06T23:59:59Z",
+    "title": {
+      "de": "Winterlichter",
+      "en": "Winter Lights"
+    },
+    "body": {
+      "de": "Winterwörter, leuchtende Sterne und eine frostige Themenmischung.",
+      "en": "Winter words, glowing stars and a frosty themed mix."
+    },
+    "symbol": "snowflake",
+    "categories": [
+      "nature",
+      "food",
+      "world"
+    ],
+    "wordTag": "winter",
+    "bonusLume": 100
+  }
+]

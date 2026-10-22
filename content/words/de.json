@@ -1,0 +1,1753 @@
+[
+  {
+    "word": "BAUM",
+    "category": "nature",
+    "clue": "Hat Wurzeln, Stamm und eine Krone."
+  },
+  {
+    "word": "WALD",
+    "category": "nature",
+    "clue": "Viele Bäume bilden diesen Lebensraum."
+  },
+  {
+    "word": "BERG",
+    "category": "nature",
+    "clue": "Ragt hoch über seine Umgebung hinaus."
+  },
+  {
+    "word": "FELS",
+    "category": "nature",
+    "clue": "Harter Stein, oft Teil eines Berges."
+  },
+  {
+    "word": "MOOS",
+    "category": "nature",
+    "clue": "Weicher grüner Teppich auf feuchtem Boden.",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "word": "BLATT",
+    "category": "nature",
+    "clue": "Grüner Teil einer Pflanze, der Licht einfängt.",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "word": "BLUME",
+    "category": "nature",
+    "clue": "Blüht oft bunt und duftet."
+  },
+  {
+    "word": "FLUSS",
+    "category": "nature",
+    "clue": "Fließendes Gewässer auf dem Weg zum Meer."
+  },
+  {
+    "word": "WOLKE",
+    "category": "nature",
+    "clue": "Schwebende Ansammlung aus Wassertröpfchen."
+  },
+  {
+    "word": "REGEN",
+    "category": "nature",
+    "clue": "Wasser fällt aus Wolken zur Erde."
+  },
+  {
+    "word": "STURM",
+    "category": "nature",
+    "clue": "Sehr kräftiger Wind, oft mit Unwetter."
+  },
+  {
+    "word": "WIESE",
+    "category": "nature",
+    "clue": "Offene Fläche mit Gras und Kräutern."
+  },
+  {
+    "word": "SONNE",
+    "category": "nature",
+    "clue": "Unser Stern spendet Licht und Wärme."
+  },
+  {
+    "word": "NEBEL",
+    "category": "nature",
+    "clue": "Wolke direkt über dem Boden.",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "word": "BIRKE",
+    "category": "nature",
+    "clue": "Baum mit auffällig heller Rinde."
+  },
+  {
+    "word": "EICHE",
+    "category": "nature",
+    "clue": "Baum, dessen Frucht die Eichel ist."
+  },
+  {
+    "word": "AHORN",
+    "category": "nature",
+    "clue": "Baum mit handförmigen Blättern."
+  },
+  {
+    "word": "INSEL",
+    "category": "nature",
+    "clue": "Land, das vollständig von Wasser umgeben ist."
+  },
+  {
+    "word": "STRAND",
+    "category": "nature",
+    "clue": "Übergang zwischen Land und Wasser."
+  },
+  {
+    "word": "HIMMEL",
+    "category": "nature",
+    "clue": "Was sich scheinbar über uns spannt."
+  },
+  {
+    "word": "QUELLE",
+    "category": "nature",
+    "clue": "Hier tritt Wasser natürlich aus dem Boden."
+  },
+  {
+    "word": "GARTEN",
+    "category": "nature",
+    "clue": "Bepflanzter Bereich rund ums Haus."
+  },
+  {
+    "word": "WASSER",
+    "category": "nature",
+    "clue": "Lebenswichtige Flüssigkeit ohne Farbe."
+  },
+  {
+    "word": "SCHNEE",
+    "category": "nature",
+    "clue": "Gefrorener Niederschlag aus Eiskristallen."
+  },
+  {
+    "word": "DONNER",
+    "category": "nature",
+    "clue": "Lautes Geräusch nach einem Blitz."
+  },
+  {
+    "word": "KLIPPE",
+    "category": "nature",
+    "clue": "Steil abfallende Felskante am Wasser."
+  },
+  {
+    "word": "WIND",
+    "category": "nature",
+    "clue": "Bewegte Luft, die man nicht sehen kann."
+  },
+  {
+    "word": "BACH",
+    "category": "nature",
+    "clue": "Kleines natürliches Fließgewässer."
+  },
+  {
+    "word": "HEIDE",
+    "category": "nature",
+    "clue": "Offene Landschaft mit niedrigen Sträuchern."
+  },
+  {
+    "word": "FARN",
+    "category": "nature",
+    "clue": "Pflanze mit gefiederten Wedeln.",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "word": "GIPFEL",
+    "category": "nature",
+    "clue": "Höchster Punkt eines Berges."
+  },
+  {
+    "word": "DUNEN",
+    "category": "nature",
+    "clue": "Vom Wind geformte Sandhügel."
+  },
+  {
+    "word": "RINNE",
+    "category": "nature",
+    "clue": "Schmale Vertiefung, in der Wasser fließen kann."
+  },
+  {
+    "word": "KIEFER",
+    "category": "nature",
+    "clue": "Nadelbaum mit langen Nadeln.",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "word": "KASKADE",
+    "category": "nature",
+    "clue": "Wasser fällt stufenweise nach unten."
+  },
+  {
+    "word": "LICHTUNG",
+    "category": "nature",
+    "clue": "Freie Stelle mitten im Wald."
+  },
+  {
+    "word": "LAVENDEL",
+    "category": "nature",
+    "clue": "Violette, stark duftende Pflanze."
+  },
+  {
+    "word": "SEEROSE",
+    "category": "nature",
+    "clue": "Wasserpflanze mit schwimmenden Blättern."
+  },
+  {
+    "word": "CHIP",
+    "category": "technology",
+    "clue": "Winziger Baustein moderner Elektronik."
+  },
+  {
+    "word": "CODE",
+    "category": "technology",
+    "clue": "Anweisungen, die Software verständlich machen."
+  },
+  {
+    "word": "NETZ",
+    "category": "technology",
+    "clue": "Verbindet Geräte oder Computer miteinander."
+  },
+  {
+    "word": "FUNK",
+    "category": "technology",
+    "clue": "Überträgt Signale ohne Kabel."
+  },
+  {
+    "word": "AKKU",
+    "category": "technology",
+    "clue": "Speichert elektrische Energie für unterwegs."
+  },
+  {
+    "word": "DATEN",
+    "category": "technology",
+    "clue": "Digitale Informationen in verarbeitbarer Form."
+  },
+  {
+    "word": "KABEL",
+    "category": "technology",
+    "clue": "Leitet Strom oder Signale zwischen Geräten."
+  },
+  {
+    "word": "LASER",
+    "category": "technology",
+    "clue": "Gebündelter, sehr gerichteter Lichtstrahl."
+  },
+  {
+    "word": "MODEM",
+    "category": "technology",
+    "clue": "Verbindet ein Netzwerk mit einem Zugang."
+  },
+  {
+    "word": "PIXEL",
+    "category": "technology",
+    "clue": "Kleinster Bildpunkt eines Displays."
+  },
+  {
+    "word": "ROBOT",
+    "category": "technology",
+    "clue": "Maschine, die Aufgaben automatisch ausführt."
+  },
+  {
+    "word": "CLOUD",
+    "category": "technology",
+    "clue": "Daten und Dienste auf entfernten Servern."
+  },
+  {
+    "word": "MOTOR",
+    "category": "technology",
+    "clue": "Wandelt Energie in Bewegung um."
+  },
+  {
+    "word": "SONAR",
+    "category": "technology",
+    "clue": "Ortung mithilfe von Schallwellen."
+  },
+  {
+    "word": "SENSOR",
+    "category": "technology",
+    "clue": "Misst eine physikalische Größe."
+  },
+  {
+    "word": "SERVER",
+    "category": "technology",
+    "clue": "Stellt anderen Rechnern Dienste bereit."
+  },
+  {
+    "word": "ROUTER",
+    "category": "technology",
+    "clue": "Lenkt Datenpakete zwischen Netzwerken."
+  },
+  {
+    "word": "SYSTEM",
+    "category": "technology",
+    "clue": "Mehrere Teile arbeiten als Einheit zusammen."
+  },
+  {
+    "word": "TABLET",
+    "category": "technology",
+    "clue": "Flacher Computer mit Touchscreen."
+  },
+  {
+    "word": "LAPTOP",
+    "category": "technology",
+    "clue": "Tragbarer Computer mit Bildschirm und Tastatur."
+  },
+  {
+    "word": "SIGNAL",
+    "category": "technology",
+    "clue": "Überträgt eine Information von A nach B."
+  },
+  {
+    "word": "SKRIPT",
+    "category": "technology",
+    "clue": "Kleine Folge automatisch ausführbarer Befehle."
+  },
+  {
+    "word": "DROHNE",
+    "category": "technology",
+    "clue": "Unbemanntes Fluggerät mit Fernsteuerung."
+  },
+  {
+    "word": "DISPLAY",
+    "category": "technology",
+    "clue": "Zeigt digitale Inhalte sichtbar an."
+  },
+  {
+    "word": "PLATINE",
+    "category": "technology",
+    "clue": "Trägerplatte für elektronische Bauteile."
+  },
+  {
+    "word": "PROZESS",
+    "category": "technology",
+    "clue": "Laufender Ablauf innerhalb eines Systems."
+  },
+  {
+    "word": "SPEICHER",
+    "category": "technology",
+    "clue": "Bewahrt digitale Informationen auf."
+  },
+  {
+    "word": "KAMERA",
+    "category": "technology",
+    "clue": "Nimmt Fotos oder Videos auf."
+  },
+  {
+    "word": "RADAR",
+    "category": "technology",
+    "clue": "Erkennt Objekte mit elektromagnetischen Wellen."
+  },
+  {
+    "word": "DRUCKER",
+    "category": "technology",
+    "clue": "Bringt digitale Inhalte auf Papier."
+  },
+  {
+    "word": "BROWSER",
+    "category": "technology",
+    "clue": "Programm zum Aufrufen von Webseiten."
+  },
+  {
+    "word": "TASTATUR",
+    "category": "technology",
+    "clue": "Eingabegerät mit vielen Tasten."
+  },
+  {
+    "word": "MIKROFON",
+    "category": "technology",
+    "clue": "Wandelt Schall in elektrische Signale."
+  },
+  {
+    "word": "STREAM",
+    "category": "technology",
+    "clue": "Daten werden fortlaufend übertragen."
+  },
+  {
+    "word": "KERNEL",
+    "category": "technology",
+    "clue": "Zentraler Kern eines Betriebssystems."
+  },
+  {
+    "word": "BACKUP",
+    "category": "technology",
+    "clue": "Sicherheitskopie wichtiger Daten."
+  },
+  {
+    "word": "FIREWALL",
+    "category": "technology",
+    "clue": "Filtert unerwünschten Netzwerkverkehr."
+  },
+  {
+    "word": "CACHE",
+    "category": "technology",
+    "clue": "Zwischenspeicher für schnellen Zugriff."
+  },
+  {
+    "word": "PORT",
+    "category": "technology",
+    "clue": "Logischer oder physischer Anschluss."
+  },
+  {
+    "word": "MARS",
+    "category": "space",
+    "clue": "Roter Nachbarplanet der Erde."
+  },
+  {
+    "word": "MOND",
+    "category": "space",
+    "clue": "Natürlicher Begleiter unserer Erde."
+  },
+  {
+    "word": "ERDE",
+    "category": "space",
+    "clue": "Unser Heimatplanet."
+  },
+  {
+    "word": "STERN",
+    "category": "space",
+    "clue": "Leuchtender Himmelskörper wie unsere Sonne."
+  },
+  {
+    "word": "KOMET",
+    "category": "space",
+    "clue": "Eisiger Himmelskörper mit sichtbarem Schweif."
+  },
+  {
+    "word": "ORBIT",
+    "category": "space",
+    "clue": "Bahn eines Körpers um einen anderen."
+  },
+  {
+    "word": "VENUS",
+    "category": "space",
+    "clue": "Sehr heller Planet am Morgen- oder Abendhimmel."
+  },
+  {
+    "word": "SONDE",
+    "category": "space",
+    "clue": "Unbemanntes Raumfahrzeug für Messungen."
+  },
+  {
+    "word": "ORION",
+    "category": "space",
+    "clue": "Bekanntes Sternbild mit drei Gürtelsternen."
+  },
+  {
+    "word": "PLUTO",
+    "category": "space",
+    "clue": "Zwergplanet jenseits des Neptun."
+  },
+  {
+    "word": "RAKETE",
+    "category": "space",
+    "clue": "Trägt Nutzlasten mit Schub ins All."
+  },
+  {
+    "word": "SATURN",
+    "category": "space",
+    "clue": "Planet mit auffälligem Ringsystem."
+  },
+  {
+    "word": "METEOR",
+    "category": "space",
+    "clue": "Leuchtspur eines Körpers in der Atmosphäre."
+  },
+  {
+    "word": "URANUS",
+    "category": "space",
+    "clue": "Eisriese mit stark geneigter Achse."
+  },
+  {
+    "word": "KOSMOS",
+    "category": "space",
+    "clue": "Bezeichnung für das gesamte Weltall."
+  },
+  {
+    "word": "PLANET",
+    "category": "space",
+    "clue": "Umläuft einen Stern und leuchtet nicht selbst."
+  },
+  {
+    "word": "KRATER",
+    "category": "space",
+    "clue": "Runde Vertiefung durch Einschlag oder Vulkanismus."
+  },
+  {
+    "word": "VAKUUM",
+    "category": "space",
+    "clue": "Raum mit extrem wenig Materie."
+  },
+  {
+    "word": "PHOBOS",
+    "category": "space",
+    "clue": "Einer der beiden Marsmonde."
+  },
+  {
+    "word": "JUPITER",
+    "category": "space",
+    "clue": "Größter Planet unseres Sonnensystems."
+  },
+  {
+    "word": "GALAXIE",
+    "category": "space",
+    "clue": "Riesige Ansammlung aus Sternen und Gas."
+  },
+  {
+    "word": "ASTEROID",
+    "category": "space",
+    "clue": "Kleiner felsiger Körper im Sonnensystem."
+  },
+  {
+    "word": "TELESKOP",
+    "category": "space",
+    "clue": "Macht sehr weit entfernte Himmelsobjekte sichtbar."
+  },
+  {
+    "word": "APOLLO",
+    "category": "space",
+    "clue": "Name berühmter bemannter Mondmissionen."
+  },
+  {
+    "word": "NEPTUN",
+    "category": "space",
+    "clue": "Äußerer blauer Eisriese."
+  },
+  {
+    "word": "NEBEL",
+    "category": "space",
+    "clue": "Wolke aus Gas und Staub im All."
+  },
+  {
+    "word": "EKLIPSE",
+    "category": "space",
+    "clue": "Fachbegriff für eine Verfinsterung am Himmel."
+  },
+  {
+    "word": "STERNEN",
+    "category": "space",
+    "clue": "Mehrzahl vieler leuchtender Himmelskörper."
+  },
+  {
+    "word": "ROVER",
+    "category": "space",
+    "clue": "Fahrzeug, das eine fremde Himmelsoberfläche erkundet."
+  },
+  {
+    "word": "KAPSEL",
+    "category": "space",
+    "clue": "Kleine Raumfahrzeugkabine für Besatzung."
+  },
+  {
+    "word": "SATELLIT",
+    "category": "space",
+    "clue": "Umläuft einen Planeten oder anderen Körper."
+  },
+  {
+    "word": "URKNALL",
+    "category": "space",
+    "clue": "Modell für den Beginn des Universums."
+  },
+  {
+    "word": "SCHWERE",
+    "category": "space",
+    "clue": "Kraft, die Massen zueinander zieht."
+  },
+  {
+    "word": "POLARIS",
+    "category": "space",
+    "clue": "Stern nahe dem nördlichen Himmelspol."
+  },
+  {
+    "word": "EXOMOND",
+    "category": "space",
+    "clue": "Mond eines Planeten außerhalb unseres Sonnensystems."
+  },
+  {
+    "word": "KOSMISCH",
+    "category": "space",
+    "clue": "Bezieht sich auf den Weltraum."
+  },
+  {
+    "word": "MODUL",
+    "category": "space",
+    "clue": "Bauteil einer Raumstation oder Raumkapsel."
+  },
+  {
+    "word": "SOLAR",
+    "category": "space",
+    "clue": "Bezieht sich auf die Sonne."
+  },
+  {
+    "word": "NOVA",
+    "category": "space",
+    "clue": "Plötzliche starke Helligkeitszunahme eines Sterns."
+  },
+  {
+    "word": "ZENIT",
+    "category": "space",
+    "clue": "Punkt am Himmel genau über dem Beobachter."
+  },
+  {
+    "word": "WOLF",
+    "category": "animals",
+    "clue": "Wildes Rudeltier aus der Familie der Hunde."
+  },
+  {
+    "word": "HASE",
+    "category": "animals",
+    "clue": "Langohren, die sehr schnell laufen können."
+  },
+  {
+    "word": "MAUS",
+    "category": "animals",
+    "clue": "Kleines Nagetier mit langem Schwanz."
+  },
+  {
+    "word": "HUND",
+    "category": "animals",
+    "clue": "Seit Jahrtausenden Begleiter des Menschen."
+  },
+  {
+    "word": "RABE",
+    "category": "animals",
+    "clue": "Großer schwarzer Vogel mit hoher Intelligenz.",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "word": "IGEL",
+    "category": "animals",
+    "clue": "Kleines Säugetier mit vielen Stacheln.",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "word": "LUCHS",
+    "category": "animals",
+    "clue": "Wildkatze mit auffälligen Ohrpinseln."
+  },
+  {
+    "word": "PFERD",
+    "category": "animals",
+    "clue": "Großes Tier zum Reiten und Ziehen."
+  },
+  {
+    "word": "TIGER",
+    "category": "animals",
+    "clue": "Große gestreifte Raubkatze."
+  },
+  {
+    "word": "PANDA",
+    "category": "animals",
+    "clue": "Schwarz-weißer Bär mit Bambusliebe."
+  },
+  {
+    "word": "ADLER",
+    "category": "animals",
+    "clue": "Großer Greifvogel mit scharfem Blick."
+  },
+  {
+    "word": "OTTER",
+    "category": "animals",
+    "clue": "Verspieltes Raubtier, oft am Wasser."
+  },
+  {
+    "word": "FUCHS",
+    "category": "animals",
+    "clue": "Rötliches Raubtier mit buschigem Schwanz.",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "word": "KATZE",
+    "category": "animals",
+    "clue": "Beliebtes Haustier, das gerne schnurrt."
+  },
+  {
+    "word": "ZEBRA",
+    "category": "animals",
+    "clue": "Pferdeverwandter mit schwarzen und weißen Streifen."
+  },
+  {
+    "word": "AMSEL",
+    "category": "animals",
+    "clue": "Häufiger Singvogel, Männchen meist schwarz."
+  },
+  {
+    "word": "DACHS",
+    "category": "animals",
+    "clue": "Kräftiges Tier mit schwarz-weißer Gesichtszeichnung.",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "word": "BIBER",
+    "category": "animals",
+    "clue": "Baut Dämme und fällt Bäume."
+  },
+  {
+    "word": "ROBBE",
+    "category": "animals",
+    "clue": "Meeressäuger mit Flossen statt Beinen.",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "word": "DELFIN",
+    "category": "animals",
+    "clue": "Intelligenter Meeressäuger mit Echolot."
+  },
+  {
+    "word": "FALTER",
+    "category": "animals",
+    "clue": "Erwachsener Schmetterling."
+  },
+  {
+    "word": "FROSCH",
+    "category": "animals",
+    "clue": "Amphibie, die hüpft und quakt."
+  },
+  {
+    "word": "GIRAFFE",
+    "category": "animals",
+    "clue": "Tier mit außergewöhnlich langem Hals."
+  },
+  {
+    "word": "WALROSS",
+    "category": "animals",
+    "clue": "Großer Meeressäuger mit langen Stoßzähnen."
+  },
+  {
+    "word": "PINGUIN",
+    "category": "animals",
+    "clue": "Flugunfähiger Vogel, hervorragender Schwimmer.",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "word": "SPATZ",
+    "category": "animals",
+    "clue": "Kleiner, sehr häufiger Stadtvogel."
+  },
+  {
+    "word": "KOBRA",
+    "category": "animals",
+    "clue": "Giftschlange mit aufstellbarem Nackenschild."
+  },
+  {
+    "word": "LAMM",
+    "category": "animals",
+    "clue": "Jungtier eines Schafes."
+  },
+  {
+    "word": "ELCH",
+    "category": "animals",
+    "clue": "Sehr großer Hirsch mit breitem Geweih.",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "word": "ELEFANT",
+    "category": "animals",
+    "clue": "Größtes Landtier mit Rüssel."
+  },
+  {
+    "word": "KOALA",
+    "category": "animals",
+    "clue": "Australischer Beutler, frisst Eukalyptus."
+  },
+  {
+    "word": "PAPAGEI",
+    "category": "animals",
+    "clue": "Bunter Vogel, der Laute nachahmen kann."
+  },
+  {
+    "word": "HAIFISCH",
+    "category": "animals",
+    "clue": "Knorpelfisch mit mehreren Zahnreihen."
+  },
+  {
+    "word": "BISON",
+    "category": "animals",
+    "clue": "Massiges Wildrind mit Schulterbuckel."
+  },
+  {
+    "word": "KAMEL",
+    "category": "animals",
+    "clue": "Wüstentier mit einem oder zwei Höckern."
+  },
+  {
+    "word": "GECKO",
+    "category": "animals",
+    "clue": "Kleine Echse, die an Wänden haften kann."
+  },
+  {
+    "word": "EULE",
+    "category": "animals",
+    "clue": "Nachtaktiver Vogel mit großen Augen."
+  },
+  {
+    "word": "KREBS",
+    "category": "animals",
+    "clue": "Tier mit Scheren und hartem Panzer."
+  },
+  {
+    "word": "STORCH",
+    "category": "animals",
+    "clue": "Großer Schreitvogel mit langem Schnabel."
+  },
+  {
+    "word": "WIESEL",
+    "category": "animals",
+    "clue": "Schlankes, flinkes kleines Raubtier."
+  },
+  {
+    "word": "BROT",
+    "category": "food",
+    "clue": "Grundnahrungsmittel aus gebackenem Teig."
+  },
+  {
+    "word": "REIS",
+    "category": "food",
+    "clue": "Kleine Körner, weltweit wichtige Beilage."
+  },
+  {
+    "word": "APFEL",
+    "category": "food",
+    "clue": "Runde Frucht, oft rot oder grün."
+  },
+  {
+    "word": "BIRNE",
+    "category": "food",
+    "clue": "Süße Frucht mit typischer Tropfenform.",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "word": "HONIG",
+    "category": "food",
+    "clue": "Süßer Vorrat, den Bienen herstellen."
+  },
+  {
+    "word": "PIZZA",
+    "category": "food",
+    "clue": "Flacher belegter Teig aus dem Ofen."
+  },
+  {
+    "word": "SUPPE",
+    "category": "food",
+    "clue": "Flüssiges Gericht, meist warm serviert."
+  },
+  {
+    "word": "SALAT",
+    "category": "food",
+    "clue": "Gericht aus rohen oder gegarten Zutaten."
+  },
+  {
+    "word": "NUDEL",
+    "category": "food",
+    "clue": "Teigware in vielen Formen."
+  },
+  {
+    "word": "TORTE",
+    "category": "food",
+    "clue": "Festliches Gebäck mit mehreren Schichten."
+  },
+  {
+    "word": "KAKAO",
+    "category": "food",
+    "clue": "Getränk oder Pulver aus Kakaobohnen.",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "word": "KAFFEE",
+    "category": "food",
+    "clue": "Heißgetränk aus gerösteten Bohnen."
+  },
+  {
+    "word": "BANANE",
+    "category": "food",
+    "clue": "Gelbe, gebogene tropische Frucht."
+  },
+  {
+    "word": "ORANGE",
+    "category": "food",
+    "clue": "Zitrusfrucht, deren Name auch eine Farbe ist."
+  },
+  {
+    "word": "TOMATE",
+    "category": "food",
+    "clue": "Rote Frucht, oft wie Gemüse verwendet."
+  },
+  {
+    "word": "BUTTER",
+    "category": "food",
+    "clue": "Streichfähiges Milchfett."
+  },
+  {
+    "word": "ZUCKER",
+    "category": "food",
+    "clue": "Süße Kristalle zum Backen und Würzen."
+  },
+  {
+    "word": "MELONE",
+    "category": "food",
+    "clue": "Große saftige Frucht mit dicker Schale."
+  },
+  {
+    "word": "TRAUBE",
+    "category": "food",
+    "clue": "Kleine Frucht, wächst in Rispen.",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "word": "KAROTTE",
+    "category": "food",
+    "clue": "Orange Wurzel mit knackigem Biss."
+  },
+  {
+    "word": "PFEFFER",
+    "category": "food",
+    "clue": "Gewürz aus getrockneten Körnern."
+  },
+  {
+    "word": "PAPRIKA",
+    "category": "food",
+    "clue": "Gemüse oder Gewürz in verschiedenen Farben."
+  },
+  {
+    "word": "KIRSCHE",
+    "category": "food",
+    "clue": "Kleine rote Steinfrucht mit Stiel."
+  },
+  {
+    "word": "ZITRONE",
+    "category": "food",
+    "clue": "Gelbe, sehr saure Zitrusfrucht."
+  },
+  {
+    "word": "WAFFEL",
+    "category": "food",
+    "clue": "Gebäck mit typischem Gittermuster."
+  },
+  {
+    "word": "KEKS",
+    "category": "food",
+    "clue": "Kleines knuspriges Gebäck.",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "word": "MANGO",
+    "category": "food",
+    "clue": "Süße tropische Steinfrucht."
+  },
+  {
+    "word": "OLIVE",
+    "category": "food",
+    "clue": "Kleine Frucht, wichtig für mediterranes Öl."
+  },
+  {
+    "word": "ZWIEBEL",
+    "category": "food",
+    "clue": "Würzige Knolle, bringt oft die Augen zum Tränen."
+  },
+  {
+    "word": "JOGHURT",
+    "category": "food",
+    "clue": "Gesäuertes Milchprodukt, cremig und kühl."
+  },
+  {
+    "word": "BROKKOLI",
+    "category": "food",
+    "clue": "Grünes Gemüse mit vielen kleinen Röschen."
+  },
+  {
+    "word": "MARZIPAN",
+    "category": "food",
+    "clue": "Süße Masse aus Mandeln und Zucker."
+  },
+  {
+    "word": "KAESE",
+    "category": "food",
+    "clue": "Milchprodukt, das oft reifen muss."
+  },
+  {
+    "word": "OMELETT",
+    "category": "food",
+    "clue": "Eierspeise aus der Pfanne."
+  },
+  {
+    "word": "BAGEL",
+    "category": "food",
+    "clue": "Ringförmiges, kurz gekochtes Gebäck."
+  },
+  {
+    "word": "PESTO",
+    "category": "food",
+    "clue": "Kalte würzige Sauce, oft mit Basilikum."
+  },
+  {
+    "word": "SORBET",
+    "category": "food",
+    "clue": "Gefrorene Süßspeise ohne Milch."
+  },
+  {
+    "word": "TOFU",
+    "category": "food",
+    "clue": "Eiweißreiches Produkt aus Sojabohnen."
+  },
+  {
+    "word": "MUFFIN",
+    "category": "food",
+    "clue": "Kleiner Kuchen aus einer runden Form."
+  },
+  {
+    "word": "RISOTTO",
+    "category": "food",
+    "clue": "Cremiges italienisches Reisgericht."
+  },
+  {
+    "word": "DORF",
+    "category": "world",
+    "clue": "Kleine Siedlung, meist kleiner als eine Stadt."
+  },
+  {
+    "word": "TURM",
+    "category": "world",
+    "clue": "Hohes schmales Bauwerk."
+  },
+  {
+    "word": "MEER",
+    "category": "world",
+    "clue": "Große zusammenhängende Salzwasserfläche."
+  },
+  {
+    "word": "WIEN",
+    "category": "world",
+    "clue": "Hauptstadt Österreichs an der Donau."
+  },
+  {
+    "word": "ALPEN",
+    "category": "world",
+    "clue": "Großes europäisches Hochgebirge."
+  },
+  {
+    "word": "STADT",
+    "category": "world",
+    "clue": "Große dicht besiedelte Ortschaft."
+  },
+  {
+    "word": "INSEL",
+    "category": "world",
+    "clue": "Landfläche, ringsum von Wasser umgeben."
+  },
+  {
+    "word": "HOTEL",
+    "category": "world",
+    "clue": "Unterkunft für Reisende gegen Bezahlung."
+  },
+  {
+    "word": "HAFEN",
+    "category": "world",
+    "clue": "Ort, an dem Schiffe anlegen."
+  },
+  {
+    "word": "MARKT",
+    "category": "world",
+    "clue": "Ort für Handel mit Waren."
+  },
+  {
+    "word": "PLATZ",
+    "category": "world",
+    "clue": "Offene Fläche innerhalb einer Stadt."
+  },
+  {
+    "word": "OZEAN",
+    "category": "world",
+    "clue": "Eine der größten Salzwasserflächen der Erde."
+  },
+  {
+    "word": "ASIEN",
+    "category": "world",
+    "clue": "Größter Kontinent der Erde."
+  },
+  {
+    "word": "TIROL",
+    "category": "world",
+    "clue": "Alpenregion im Westen Österreichs.",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "word": "PARIS",
+    "category": "world",
+    "clue": "Französische Hauptstadt an der Seine."
+  },
+  {
+    "word": "TOKIO",
+    "category": "world",
+    "clue": "Japanische Metropole und Hauptstadt."
+  },
+  {
+    "word": "TUNNEL",
+    "category": "world",
+    "clue": "Weg, der durch Berg oder Erde führt."
+  },
+  {
+    "word": "TEMPEL",
+    "category": "world",
+    "clue": "Religiöses Bauwerk vieler Kulturen."
+  },
+  {
+    "word": "MUSEUM",
+    "category": "world",
+    "clue": "Bewahrt und zeigt kulturelle oder wissenschaftliche Objekte."
+  },
+  {
+    "word": "EUROPA",
+    "category": "world",
+    "clue": "Kontinent westlich von Asien."
+  },
+  {
+    "word": "AFRIKA",
+    "category": "world",
+    "clue": "Kontinent mit Sahara und Äquator."
+  },
+  {
+    "word": "BERLIN",
+    "category": "world",
+    "clue": "Hauptstadt Deutschlands."
+  },
+  {
+    "word": "LONDON",
+    "category": "world",
+    "clue": "Britische Hauptstadt an der Themse."
+  },
+  {
+    "word": "STRASSE",
+    "category": "world",
+    "clue": "Befestigter Verkehrsweg für Fahrzeuge."
+  },
+  {
+    "word": "BAHNHOF",
+    "category": "world",
+    "clue": "Ort, an dem Züge halten."
+  },
+  {
+    "word": "SCHLOSS",
+    "category": "world",
+    "clue": "Großes repräsentatives historisches Gebäude."
+  },
+  {
+    "word": "GRENZE",
+    "category": "world",
+    "clue": "Linie zwischen Staaten oder Gebieten."
+  },
+  {
+    "word": "KANADA",
+    "category": "world",
+    "clue": "Großer Staat nördlich der USA.",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "word": "PORTUGAL",
+    "category": "world",
+    "clue": "Land am westlichen Rand Europas."
+  },
+  {
+    "word": "VENEDIG",
+    "category": "world",
+    "clue": "Italienische Stadt mit vielen Kanälen."
+  },
+  {
+    "word": "BRUECKE",
+    "category": "world",
+    "clue": "Bauwerk über Fluss, Tal oder Straße."
+  },
+  {
+    "word": "WUESTE",
+    "category": "world",
+    "clue": "Sehr trockene Landschaft mit wenig Niederschlag."
+  },
+  {
+    "word": "TALWEG",
+    "category": "world",
+    "clue": "Weg, der durch ein Tal führt."
+  },
+  {
+    "word": "KUESTE",
+    "category": "world",
+    "clue": "Grenzbereich zwischen Land und Meer."
+  },
+  {
+    "word": "FJORD",
+    "category": "world",
+    "clue": "Schmaler tiefer Meeresarm zwischen steilen Bergen."
+  },
+  {
+    "word": "KREML",
+    "category": "world",
+    "clue": "Befestigter historischer Komplex in Russland."
+  },
+  {
+    "word": "PAMPA",
+    "category": "world",
+    "clue": "Weite Graslandschaft Südamerikas."
+  },
+  {
+    "word": "SAHARA",
+    "category": "world",
+    "clue": "Größte heiße Wüste der Erde."
+  },
+  {
+    "word": "BALKAN",
+    "category": "world",
+    "clue": "Region im Südosten Europas."
+  },
+  {
+    "word": "GLOBUS",
+    "category": "world",
+    "clue": "Kugelförmiges Modell der Erde."
+  },
+  {
+    "word": "TANNE",
+    "category": "nature",
+    "clue": "Nadelbaum, der oft als Weihnachtsbaum dient.",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "word": "FLOCKE",
+    "category": "nature",
+    "clue": "Ein einzelnes kleines Stück fallenden Schnees.",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "word": "FROST",
+    "category": "nature",
+    "clue": "Kälte, bei der Wasser gefriert.",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "word": "RINDE",
+    "category": "nature",
+    "clue": "Äußere Schutzschicht eines Baumstamms."
+  },
+  {
+    "word": "DÜNE",
+    "category": "nature",
+    "clue": "Vom Wind geformter Hügel aus Sand."
+  },
+  {
+    "word": "KÜSTE",
+    "category": "nature",
+    "clue": "Grenze zwischen Land und Meer."
+  },
+  {
+    "word": "LOGIN",
+    "category": "technology",
+    "clue": "Anmeldung bei einem digitalen Dienst."
+  },
+  {
+    "word": "SCRIPT",
+    "category": "technology",
+    "clue": "Kleine Folge ausführbarer Anweisungen."
+  },
+  {
+    "word": "WIDGET",
+    "category": "technology",
+    "clue": "Kleines interaktives Element einer Oberfläche."
+  },
+  {
+    "word": "PHASE",
+    "category": "space",
+    "clue": "Sichtbare Gestalt des Mondes im Monatsverlauf."
+  },
+  {
+    "word": "MÖWE",
+    "category": "animals",
+    "clue": "Häufiger Küstenvogel mit kräftigem Ruf."
+  },
+  {
+    "word": "LEMUR",
+    "category": "animals",
+    "clue": "Primat, der vor allem auf Madagaskar lebt."
+  },
+  {
+    "word": "HUSKY",
+    "category": "animals",
+    "clue": "Kräftiger Schlittenhund für kalte Regionen.",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "word": "KÜRBIS",
+    "category": "food",
+    "clue": "Orangefarbene Frucht, beliebt im Herbst.",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "word": "MARONE",
+    "category": "food",
+    "clue": "Essbare Frucht der Edelkastanie.",
+    "tags": [
+      "autumn",
+      "winter"
+    ]
+  },
+  {
+    "word": "ZIMT",
+    "category": "food",
+    "clue": "Würziges braunes Gewürz aus Baumrinde.",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "word": "PUNSCH",
+    "category": "food",
+    "clue": "Heißes gewürztes Getränk für kalte Tage.",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "word": "CURRY",
+    "category": "food",
+    "clue": "Würzmischung oder Gericht mit kräftigen Aromen."
+  },
+  {
+    "word": "TOAST",
+    "category": "food",
+    "clue": "In Scheiben geröstetes Brot."
+  },
+  {
+    "word": "OSLO",
+    "category": "world",
+    "clue": "Hauptstadt Norwegens am Oslofjord.",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "word": "KAIRO",
+    "category": "world",
+    "clue": "Ägyptische Hauptstadt nahe den Pyramiden von Gizeh."
+  },
+  {
+    "word": "NEPAL",
+    "category": "world",
+    "clue": "Himalaya-Staat zwischen Indien und China.",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "word": "ISLAND",
+    "category": "world",
+    "clue": "Nordischer Inselstaat mit Vulkanen und Gletschern.",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "word": "DONAU",
+    "category": "world",
+    "clue": "Großer europäischer Fluss durch viele Länder."
+  },
+  {
+    "word": "ALASKA",
+    "category": "world",
+    "clue": "US-Bundesstaat im äußersten Nordwesten Amerikas.",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "word": "ANDEN",
+    "category": "world",
+    "clue": "Langes Hochgebirge an Südamerikas Westküste."
+  },
+  {
+    "word": "ARKTIS",
+    "category": "world",
+    "clue": "Polarregion rund um den Nordpol.",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "word": "TEICH",
+    "category": "nature",
+    "clue": "Kleines stehendes Gewässer."
+  },
+  {
+    "word": "SCHILF",
+    "category": "nature",
+    "clue": "Hohes Gras an Ufern und Seen."
+  },
+  {
+    "word": "HAGEL",
+    "category": "nature",
+    "clue": "Gefrorene Körner fallen aus Gewitterwolken."
+  },
+  {
+    "word": "MORGEN",
+    "category": "nature",
+    "clue": "Tageszeit nach der Nacht."
+  },
+  {
+    "word": "ABEND",
+    "category": "nature",
+    "clue": "Tageszeit vor der Nacht."
+  },
+  {
+    "word": "KLEE",
+    "category": "nature",
+    "clue": "Pflanze mit meist dreiteiligen Blättern."
+  },
+  {
+    "word": "ASTER",
+    "category": "nature",
+    "clue": "Blume, die oft bis in den Herbst blüht.",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "word": "EICHEL",
+    "category": "nature",
+    "clue": "Frucht einer Eiche.",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "word": "RAUREIF",
+    "category": "nature",
+    "clue": "Weiße Eiskristalle auf kalten Flächen.",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "word": "EISBLUME",
+    "category": "nature",
+    "clue": "Frostmuster auf einer kalten Scheibe.",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "word": "GROTTE",
+    "category": "nature",
+    "clue": "Natürlicher Hohlraum im Fels."
+  },
+  {
+    "word": "MUSCHEL",
+    "category": "nature",
+    "clue": "Harte Schale eines Meerestiers."
+  },
+  {
+    "word": "MAUS",
+    "category": "technology",
+    "clue": "Zeigegerät zur Steuerung eines Computers."
+  },
+  {
+    "word": "TASTE",
+    "category": "technology",
+    "clue": "Einzelner Knopf auf einer Tastatur."
+  },
+  {
+    "word": "ORDNER",
+    "category": "technology",
+    "clue": "Behälter für Dateien im Dateisystem."
+  },
+  {
+    "word": "DATEI",
+    "category": "technology",
+    "clue": "Gespeicherte digitale Informationseinheit."
+  },
+  {
+    "word": "PATCH",
+    "category": "technology",
+    "clue": "Kleine Software-Aktualisierung zur Fehlerbehebung."
+  },
+  {
+    "word": "UPDATE",
+    "category": "technology",
+    "clue": "Neue Version von Software oder Daten."
+  },
+  {
+    "word": "SOCKET",
+    "category": "technology",
+    "clue": "Programmierschnittstelle für Netzwerkverbindungen."
+  },
+  {
+    "word": "CLIENT",
+    "category": "technology",
+    "clue": "Programm oder Gerät, das einen Dienst nutzt."
+  },
+  {
+    "word": "HOST",
+    "category": "technology",
+    "clue": "Rechner, der in einem Netzwerk erreichbar ist."
+  },
+  {
+    "word": "TOKEN",
+    "category": "technology",
+    "clue": "Digitale Zeichenfolge zur Identifikation oder Anmeldung."
+  },
+  {
+    "word": "PROXY",
+    "category": "technology",
+    "clue": "Vermittler zwischen Client und Zielserver."
+  },
+  {
+    "word": "FRAME",
+    "category": "technology",
+    "clue": "Einzelbild oder Rahmen in digitaler Darstellung."
+  },
+  {
+    "word": "MERKUR",
+    "category": "space",
+    "clue": "Planet, der der Sonne am nächsten ist."
+  },
+  {
+    "word": "LUNAR",
+    "category": "space",
+    "clue": "Bezieht sich auf den Mond."
+  },
+  {
+    "word": "QUASAR",
+    "category": "space",
+    "clue": "Extrem leuchtender Kern einer fernen Galaxie."
+  },
+  {
+    "word": "PULSAR",
+    "category": "space",
+    "clue": "Schnell rotierender Neutronenstern mit regelmäßigen Signalen."
+  },
+  {
+    "word": "APOGÄUM",
+    "category": "space",
+    "clue": "Größte Entfernung eines Körpers von der Erde."
+  },
+  {
+    "word": "PERIGÄUM",
+    "category": "space",
+    "clue": "Kleinste Entfernung eines Körpers von der Erde."
+  },
+  {
+    "word": "FALKE",
+    "category": "animals",
+    "clue": "Schneller Greifvogel mit spitzen Flügeln."
+  },
+  {
+    "word": "KARPEN",
+    "category": "animals",
+    "clue": "Großer Süßwasserfisch."
+  },
+  {
+    "word": "LIBELLE",
+    "category": "animals",
+    "clue": "Insekt mit langem Körper und vier Flügeln."
+  },
+  {
+    "word": "AMEISE",
+    "category": "animals",
+    "clue": "Kleines Insekt, das in großen Staaten lebt."
+  },
+  {
+    "word": "BIENE",
+    "category": "animals",
+    "clue": "Insekt, das Blüten bestäubt und Honig erzeugt."
+  },
+  {
+    "word": "HIRSCH",
+    "category": "animals",
+    "clue": "Waldtier, dessen Männchen oft ein Geweih trägt.",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "word": "MARDER",
+    "category": "animals",
+    "clue": "Schlankes Raubtier, das gut klettern kann."
+  },
+  {
+    "word": "SCHWAN",
+    "category": "animals",
+    "clue": "Großer Wasservogel mit langem Hals."
+  },
+  {
+    "word": "KRAEHE",
+    "category": "animals",
+    "clue": "Intelligenter dunkler Vogel aus der Rabenvogelfamilie.",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "word": "LAUCH",
+    "category": "food",
+    "clue": "Langes mildes Zwiebelgemüse."
+  },
+  {
+    "word": "SELLERIE",
+    "category": "food",
+    "clue": "Aromatisches Gemüse mit Knolle oder Stangen."
+  },
+  {
+    "word": "SPINAT",
+    "category": "food",
+    "clue": "Grünes Blattgemüse."
+  },
+  {
+    "word": "ERBSE",
+    "category": "food",
+    "clue": "Kleine grüne Hülsenfrucht."
+  },
+  {
+    "word": "LINSEN",
+    "category": "food",
+    "clue": "Kleine flache Hülsenfrüchte."
+  },
+  {
+    "word": "MANDEL",
+    "category": "food",
+    "clue": "Essbarer Samen mit mild-nussigem Geschmack.",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "word": "NELKE",
+    "category": "food",
+    "clue": "Starkes Gewürz aus getrockneten Blütenknospen.",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "word": "INGWER",
+    "category": "food",
+    "clue": "Scharf-aromatische Wurzel."
+  },
+  {
+    "word": "VANILLE",
+    "category": "food",
+    "clue": "Süßlich duftendes Gewürz aus Orchideenschoten."
+  },
+  {
+    "word": "BREZEL",
+    "category": "food",
+    "clue": "Gebäck in typischer verschlungener Form."
+  },
+  {
+    "word": "GULASCH",
+    "category": "food",
+    "clue": "Kräftiges Schmorgericht mit Fleisch oder Gemüse."
+  },
+  {
+    "word": "PRAG",
+    "category": "world",
+    "clue": "Hauptstadt Tschechiens an der Moldau."
+  },
+  {
+    "word": "BERN",
+    "category": "world",
+    "clue": "Bundesstadt der Schweiz."
+  },
+  {
+    "word": "LISSABON",
+    "category": "world",
+    "clue": "Hauptstadt Portugals am Atlantik."
+  },
+  {
+    "word": "DUBLIN",
+    "category": "world",
+    "clue": "Hauptstadt Irlands."
+  },
+  {
+    "word": "ATHEN",
+    "category": "world",
+    "clue": "Griechische Hauptstadt mit der Akropolis."
+  },
+  {
+    "word": "MADRID",
+    "category": "world",
+    "clue": "Hauptstadt Spaniens."
+  },
+  {
+    "word": "ZÜRICH",
+    "category": "world",
+    "clue": "Große Schweizer Stadt am Zürichsee."
+  },
+  {
+    "word": "BODENSEE",
+    "category": "world",
+    "clue": "Großer See zwischen Deutschland, Österreich und der Schweiz."
+  },
+  {
+    "word": "NORDSEE",
+    "category": "world",
+    "clue": "Meer zwischen Großbritannien und Nordeuropa."
+  },
+  {
+    "word": "ADRIA",
+    "category": "world",
+    "clue": "Meeresarm zwischen Italien und dem Balkan."
+  },
+  {
+    "word": "TUNDRA",
+    "category": "world",
+    "clue": "Baumarme Landschaft kalter Klimazonen.",
+    "tags": [
+      "winter"
+    ]
+  },
+  {
+    "word": "KRÖTE",
+    "category": "animals",
+    "clue": "Gedrungenes Amphibium mit warziger Haut."
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": 1,
+  "updatedAt": "2026-10-22",
+  "minimumAppVersion": "1.1",
+  "words": {
+    "de": "words/de.json",
+    "en": "words/en.json"
+  },
+  "events": "events/events.json"
+}
